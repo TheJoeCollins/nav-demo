@@ -1,2 +1,2 @@
-# CrackAColdOne
-This does stuff
+# Navigation Demo
+Simple setup using react navigation
